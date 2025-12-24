@@ -41,8 +41,8 @@ def g(a):
 a=np.array(eval(input()))
 q,r=g(a)
 print("The Q Matrix is\n",str(q))
-print("The R Matrix is\n",str(r))```
-
+print("The R Matrix is\n",str(r))
+```
 ## Output
 <img width="1145" height="772" alt="Screenshot 2025-12-24 084109" src="https://github.com/user-attachments/assets/7a49481d-d675-40ea-9e2e-0f9a5d7b40e4" />
 
